@@ -23,3 +23,4 @@ def book_appoinment(patient_name,doctor_name,date):
 print("hospital appointment booking system")
 def view_appointments():
     print("Viewing appointments")
+    # Updated appointment module
