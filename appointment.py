@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 patients=[]
 doctors=[
     "dr.smith(cardiologist)",
@@ -24,3 +25,8 @@ print("hospital appointment booking system")
 def view_appointments():
     print("Viewing appointments")
     # Updated version commet on master module
+=======
+print("Hospital Appointment Booking System")
+print("Patient Registration Module - under development")
+#"Update version commet on login-feature"
+>>>>>>> login-feature
